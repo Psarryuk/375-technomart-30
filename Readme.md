@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Иван Псарюк](https://up.htmlacademy.ru/htmlcss/30/user/375).
-* Наставник: [Ярослав Баронин] (https://htmlacademy.ru/profile/id155830)
+* Наставник: [Ярослав Баронин](https://htmlacademy.ru/profile/id155830).
 
 ---
 
